@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="25" height="25" fill="currentColor">
-  <circle cx="60" cy="60" r="50" stroke="currentColor" stroke-width="4" fill="none"/>
-  <g fill="currentColor">
-    <polygon points="60,20 63,28 71,28 64,33 67,41 60,36 53,41 56,33 49,28 57,28" />
-    <!-- Repeat with rotation for a total of 12 stars around the circle -->
-  </g>
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded square background with darker outline -->
+  <rect x="10" y="10" width="100" height="100" rx="16" ry="16" fill="#2e1b47" stroke="#815ac0" stroke-width="4"/>
+  
+  <!-- GDPR text -->
+  <text x="60" y="55" text-anchor="middle" fill="#ffffff" font-size="24" font-family="Arial, sans-serif" font-weight="bold">
+    GDPR
+  </text>
+  
+  <!-- Compliant text -->
+  <text x="60" y="80" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">
+    Compliant
+  </text>
 </svg>

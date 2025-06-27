@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-shield-check" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M9 12l2 2l4 -4" />
-  <path d="M12 21c-7.5 -4 -9 -7 -9 -13v-3l9 -4l9 4v3c0 6 -1.5 9 -9 13" />
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star shape -->
+  <polygon points="70,15 85,55 128,55 93,82 105,125 70,100 35,125 47,82 12,55 55,55"
+           fill="#2e1b47" stroke="#f59e0b" stroke-width="4" />
+  
+  <!-- ISO text -->
+  <text x="70" y="78" text-anchor="middle" fill="#f59e0b" font-size="20" font-family="Arial, sans-serif" font-weight="bold">
+    ISO
+  </text>
 </svg>

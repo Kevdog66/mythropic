@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="24" height="24" fill="currentColor">
-  <path d="M50 2L5 20v30c0 30 20 46 45 48 25-2 45-18 45-48V20L50 2zm0 8.9l37.5 15v23.6c0 24.5-15.2 38.3-35.6 40.1-20.4-1.8-35.6-15.6-35.6-40.1V25.9L50 10.9z"/>
-  <path d="M35 42a15 15 0 1 1 30 0 15 15 0 1 1-30 0z"/>
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with darker purple fill and slightly darker outline -->
+  <circle cx="60" cy="60" r="54" fill="#2e1b47" stroke="#815ac0" stroke-width="4"/>
+  
+  <!-- White checkmark -->
+  <path d="M40 60 L55 75 L80 45" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- White SOC 2 label -->
+  <text x="60" y="100" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">SOC 2</text>
 </svg>

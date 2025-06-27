@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-credit-card" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <rect x="3" y="5" width="18" height="14" rx="3" />
-  <line x1="3" y1="10" x2="21" y2="10" />
-  <line x1="7" y1="15" x2="7.01" y2="15" />
-  <line x1="11" y1="15" x2="13" y2="15" />
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded rectangle background -->
+  <rect x="30" y="30" width="80" height="50" rx="8" ry="8" fill="#2b0e14" stroke="#f87171" stroke-width="4"/>
+
+  <!-- Three red dots -->
+  <circle cx="50" cy="55" r="4" fill="#f87171"/>
+  <circle cx="70" cy="55" r="4" fill="#f87171"/>
+  <circle cx="90" cy="55" r="4" fill="#f87171"/>
+
+  <!-- PCI DSS text below -->
+  <text x="70" y="120" text-anchor="middle" fill="#f87171" font-size="14" font-family="Arial, sans-serif">
+    PCI DSS
+  </text>
 </svg>
